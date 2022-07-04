@@ -1,3 +1,4 @@
+
 [submodule "Práticas/g01"]
 	path = Práticas/g01
-	url = https://git.fe.up.pt/lcom/2122/t11/g01.git
+	url = git@git.fe.up.pt:lcom/2122/t11/g01.git
