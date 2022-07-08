@@ -1,0 +1,19 @@
+{
+  "git.ignoreLimitWarning": true,
+  "C_Cpp.clang_format_fallbackStyle": "LLVM",
+  "diffEditor.ignoreTrimWhitespace": true,
+  "editor.formatOnSave": false,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "bounded",
+  "editor.wordWrapColumn": 100,
+  "files.associations": {
+    "timer.h": "c",
+    "lab5.h": "c",
+    "lcf.h": "c",
+    "stdbool.h": "c",
+    "graphics.h": "c",
+    "util.h": "c",
+    "stdint.h": "c",
+    "pixmap.h": "c"
+  },
+}
