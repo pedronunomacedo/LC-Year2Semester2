@@ -2,3 +2,6 @@
 [submodule "Práticas/g01"]
 	path = Práticas/g01
 	url = git@git.fe.up.pt:lcom/2122/t11/g01.git
+[submodule "Práticas/LC-Labs-and-Project"]
+	path = Práticas/LC-Labs-and-Project
+	url = git@github.com:pedronunomacedo/LC-Labs-and-Project.git
