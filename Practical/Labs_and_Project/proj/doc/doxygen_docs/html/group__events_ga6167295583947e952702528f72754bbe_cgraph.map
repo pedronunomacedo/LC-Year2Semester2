@@ -1,0 +1,6 @@
+<map id="handle_timer_game" name="handle_timer_game">
+<area shape="rect" id="node1" title="handle timer interrupt when the game state correspond to the game itself" alt="" coords="5,31,157,57"/>
+<area shape="rect" id="node2" href="$group__game.html#ga3a7fc6db7ce48864c811e2c946a73c32" title="Draw the game in the screen." alt="" coords="221,5,320,32"/>
+<area shape="rect" id="node4" href="$group__graphics.html#ga7d325988e8838fb43cd07222d41b2bf6" title="swap video buffers calling the VBE function to flip to current buffer" alt="" coords="205,56,336,83"/>
+<area shape="rect" id="node3" href="$group__graphics.html#gaa0a23244eccff3d872be265b8c79bbb5" title="Set the current buffer." alt="" coords="384,5,547,32"/>
+</map>

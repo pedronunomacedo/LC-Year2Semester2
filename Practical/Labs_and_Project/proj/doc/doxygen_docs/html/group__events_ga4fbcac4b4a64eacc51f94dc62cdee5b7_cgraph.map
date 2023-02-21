@@ -1,0 +1,6 @@
+<map id="handle_timer_rules_menu" name="handle_timer_rules_menu">
+<area shape="rect" id="node1" title="handle timer interrupt when the game state correspond to the rules menu" alt="" coords="5,38,196,65"/>
+<area shape="rect" id="node2" href="$group__rules__menu.html#ga64f920cbfaddb8b279efc41796d29b3d" title="Draw rules menu in the screen." alt="" coords="244,13,381,39"/>
+<area shape="rect" id="node4" href="$group__graphics.html#ga7d325988e8838fb43cd07222d41b2bf6" title="swap video buffers calling the VBE function to flip to current buffer" alt="" coords="247,63,378,90"/>
+<area shape="rect" id="node3" href="$group__graphics.html#ga15a44c754cd3d31201b2a42cff2b0a8f" title="Draws a block sprite (rectangular) by changing the video RAM with the specified color." alt="" coords="429,5,592,47"/>
+</map>

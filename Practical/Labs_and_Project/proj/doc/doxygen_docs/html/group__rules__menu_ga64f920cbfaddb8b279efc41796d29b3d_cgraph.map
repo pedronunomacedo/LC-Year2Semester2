@@ -1,0 +1,4 @@
+<map id="draw_rules_menu" name="draw_rules_menu">
+<area shape="rect" id="node1" title="Draw rules menu in the screen." alt="" coords="5,13,143,39"/>
+<area shape="rect" id="node2" href="$group__graphics.html#ga15a44c754cd3d31201b2a42cff2b0a8f" title="Draws a block sprite (rectangular) by changing the video RAM with the specified color." alt="" coords="191,5,353,47"/>
+</map>
