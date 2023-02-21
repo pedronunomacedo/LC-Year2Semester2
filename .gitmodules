@@ -5,3 +5,6 @@
 [submodule "Práticas/LC-Labs-and-Project"]
 	path = Práticas/LC-Labs-and-Project
 	url = git@github.com:pedronunomacedo/LC-Labs-and-Project.git
+[submodule "Practical/Labs_and_Project"]
+	path = Practical/Labs_and_Project
+	url = git@github.com:pedronunomacedo/LC-Labs-and-Project.git

@@ -1,5 +1,0 @@
-<map id="wait_for_IB_is_clear" name="wait_for_IB_is_clear">
-<area shape="rect" id="node1" title="wait for input buffer is clear to write a command to the buffer" alt="" coords="5,5,157,32"/>
-<area shape="rect" id="node2" href="$group__kbc.html#ga4d3065cfb4673fabddc2e0c0ec69bd05" title="Get the status register object." alt="" coords="205,5,352,32"/>
-<area shape="rect" id="node3" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="400,5,499,32"/>
-</map>

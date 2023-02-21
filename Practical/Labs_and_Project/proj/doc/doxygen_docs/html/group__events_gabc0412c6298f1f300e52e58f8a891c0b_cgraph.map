@@ -1,4 +1,0 @@
-<map id="handle_mouse_game" name="handle_mouse_game">
-<area shape="rect" id="node1" title="handle mouse interrupt when the game state correspond to the game itself" alt="" coords="5,5,167,32"/>
-<area shape="rect" id="node2" href="$group__game.html#gaacc6d7519313e604e003db46bbdf208a" title="Get the number that correspond to the current turn of the game." alt="" coords="215,5,335,32"/>
-</map>

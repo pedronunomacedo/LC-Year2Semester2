@@ -1,4 +1,0 @@
-<map id="get_status_register" name="get_status_register">
-<area shape="rect" id="node1" title="Get the status register object." alt="" coords="5,5,152,32"/>
-<area shape="rect" id="node2" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="200,5,299,32"/>
-</map>
