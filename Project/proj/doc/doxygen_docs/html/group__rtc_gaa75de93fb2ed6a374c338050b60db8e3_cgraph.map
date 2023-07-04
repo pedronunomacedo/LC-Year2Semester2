@@ -1,0 +1,8 @@
+<map id="wait_for_a_valid_rtc" name="wait_for_a_valid_rtc">
+<area shape="rect" id="node1" title="Wait for a valid RTC to read correctly the registers." alt="" coords="5,23,159,50"/>
+<area shape="rect" id="node2" href="$group__rtc.html#gaaeded2ec99c088b98498899957356227" title="Disable RTC interrupts." alt="" coords="231,74,349,101"/>
+<area shape="rect" id="node3" href="$group__rtc.html#ga9fb550ec8dae5e8a47799eef4efd8ac3" title="read byte from a register of the RTC" alt="" coords="423,23,555,50"/>
+<area shape="rect" id="node6" href="$group__rtc.html#gae8c50256909272a4791d1088deb2a58c" title="Enable RTC update interrupts." alt="" coords="207,23,373,50"/>
+<area shape="rect" id="node5" href="$group__rtc.html#gabf903ec1ea143cfee52d1f8f5b6b7b49" title="write byte in a register of the RTC" alt="" coords="421,74,557,101"/>
+<area shape="rect" id="node4" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="605,23,704,50"/>
+</map>

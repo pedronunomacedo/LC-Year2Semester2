@@ -1,0 +1,6 @@
+<map id="handle_timer_pause_menu" name="handle_timer_pause_menu">
+<area shape="rect" id="node1" title="handle timer interrupt when the game state correspond to the pause menu" alt="" coords="5,38,204,65"/>
+<area shape="rect" id="node2" href="$group__pause__menu.html#ga91717227aa41dc09a719bdb5c7f8da47" title="Draw pause menu in the screen." alt="" coords="252,13,396,39"/>
+<area shape="rect" id="node4" href="$group__graphics.html#ga7d325988e8838fb43cd07222d41b2bf6" title="swap video buffers calling the VBE function to flip to current buffer" alt="" coords="259,63,389,90"/>
+<area shape="rect" id="node3" href="$group__graphics.html#ga15a44c754cd3d31201b2a42cff2b0a8f" title="Draws a block sprite (rectangular) by changing the video RAM with the specified color." alt="" coords="444,5,607,47"/>
+</map>

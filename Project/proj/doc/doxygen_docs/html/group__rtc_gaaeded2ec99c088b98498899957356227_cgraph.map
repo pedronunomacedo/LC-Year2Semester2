@@ -1,0 +1,6 @@
+<map id="rtc_disable_int" name="rtc_disable_int">
+<area shape="rect" id="node1" title="Disable RTC interrupts." alt="" coords="5,31,123,57"/>
+<area shape="rect" id="node2" href="$group__rtc.html#ga9fb550ec8dae5e8a47799eef4efd8ac3" title="read byte from a register of the RTC" alt="" coords="173,5,305,32"/>
+<area shape="rect" id="node4" href="$group__rtc.html#gabf903ec1ea143cfee52d1f8f5b6b7b49" title="write byte in a register of the RTC" alt="" coords="171,56,307,83"/>
+<area shape="rect" id="node3" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="355,5,453,32"/>
+</map>

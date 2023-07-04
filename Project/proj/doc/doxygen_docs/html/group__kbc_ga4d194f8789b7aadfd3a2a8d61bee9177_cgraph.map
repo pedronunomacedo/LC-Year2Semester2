@@ -1,0 +1,6 @@
+<map id="get_mouse_packet" name="get_mouse_packet">
+<area shape="rect" id="node1" title="Get the mouse packet." alt="" coords="5,5,149,32"/>
+<area shape="rect" id="node2" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="592,5,691,32"/>
+<area shape="rect" id="node3" href="$group__kbc.html#ga3e2e1d5391444316d0ef315cca57be57" title="wait for input buffer is clear to write a command to the buffer" alt="" coords="197,31,349,57"/>
+<area shape="rect" id="node4" href="$group__kbc.html#ga4d3065cfb4673fabddc2e0c0ec69bd05" title="Get the status register object." alt="" coords="397,31,544,57"/>
+</map>

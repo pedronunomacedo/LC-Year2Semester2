@@ -1,0 +1,23 @@
+{
+  "git.ignoreLimitWarning": true,
+  "C_Cpp.clang_format_fallbackStyle": "LLVM",
+  "diffEditor.ignoreTrimWhitespace": true,
+  "editor.formatOnSave": false,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "bounded",
+  "editor.wordWrapColumn": 100,
+  "files.associations": {
+    "timer.h": "c",
+    "lab3.h": "c",
+    "stdbool.h": "c",
+    "lcf.h": "c",
+    "stdint.h": "c",
+    "i8042.h": "c",
+    "lab2.h": "c",
+    "stdio.h": "c",
+    "stdlib.h": "c",
+    "sysutil.h": "c",
+    "time.h": "c",
+    "types.h": "c"
+  },
+}

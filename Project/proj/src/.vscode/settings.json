@@ -1,0 +1,27 @@
+{
+  "git.ignoreLimitWarning": true,
+  "C_Cpp.clang_format_fallbackStyle": "LLVM",
+  "diffEditor.ignoreTrimWhitespace": true,
+  "editor.formatOnSave": true,
+  "editor.tabSize": 4,
+  "editor.wordWrap": "bounded",
+  "editor.wordWrapColumn": 100,
+  "files.associations": {
+    "lcf.h": "c",
+    "graphics.h": "c",
+    "int86.h": "c",
+    "mman.h": "c",
+    "proj.h": "c",
+    "vbe.h": "c",
+    "timer.h": "c",
+    "sprite.h": "c",
+    "*.xpm": "c",
+    "main_menu.h": "c",
+    "events.h": "c",
+    "font.h": "c",
+    "rtc.h": "c",
+    "lab2.h": "c",
+    "lab3.h": "c",
+    "utils.h": "c"
+  },
+}

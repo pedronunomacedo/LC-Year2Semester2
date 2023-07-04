@@ -1,0 +1,4 @@
+<map id="draw_game" name="draw_game">
+<area shape="rect" id="node1" title="Draw the game in the screen." alt="" coords="5,5,104,32"/>
+<area shape="rect" id="node2" href="$group__graphics.html#gaa0a23244eccff3d872be265b8c79bbb5" title="Set the current buffer." alt="" coords="152,5,315,32"/>
+</map>
