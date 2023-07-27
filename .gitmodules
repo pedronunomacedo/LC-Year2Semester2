@@ -11,3 +11,6 @@
 [submodule "Practical/1st_project"]
 	path = Practical/1st_project
 	url = git@github.com:pedronunomacedo/LC-Labs-and-Project.git
+[submodule "Project"]
+	path = Project
+	url = git@github.com:pedronunomacedo/LC-Project.git

@@ -1,6 +1,0 @@
-<map id="handle_timer_animation_game" name="handle_timer_animation_game">
-<area shape="rect" id="node1" title="handle timer interrupt when the game state correspond to the animation" alt="" coords="5,56,231,83"/>
-<area shape="rect" id="node2" href="$group__game.html#gafc4eea7e4d309ee7db141cea8ec6b3e4" title="Checks if the game animation is finished." alt="" coords="279,5,487,32"/>
-<area shape="rect" id="node3" href="$group__game.html#gaab8928994ef1052e6cec0e395b979e2d" title="Update sprite position to create the game animation and draw the game." alt="" coords="297,56,468,83"/>
-<area shape="rect" id="node4" href="$group__graphics.html#ga7d325988e8838fb43cd07222d41b2bf6" title="swap video buffers calling the VBE function to flip to current buffer" alt="" coords="317,107,448,133"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="rtc_handle_update_int" name="rtc_handle_update_int">
-<area shape="rect" id="node1" title="RTC update&#45;ended interrupt handler." alt="" coords="5,5,172,32"/>
-<area shape="rect" id="node2" href="$group__rtc.html#ga9fb550ec8dae5e8a47799eef4efd8ac3" title="read byte from a register of the RTC" alt="" coords="638,31,770,57"/>
-<area shape="rect" id="node4" href="$group__rtc.html#gaa75de93fb2ed6a374c338050b60db8e3" title="Wait for a valid RTC to read correctly the registers." alt="" coords="220,31,373,57"/>
-<area shape="rect" id="node3" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="820,31,919,57"/>
-<area shape="rect" id="node5" href="$group__rtc.html#gaaeded2ec99c088b98498899957356227" title="Disable RTC interrupts." alt="" coords="446,107,563,133"/>
-<area shape="rect" id="node7" href="$group__rtc.html#gae8c50256909272a4791d1088deb2a58c" title="Enable RTC update interrupts." alt="" coords="421,56,588,83"/>
-<area shape="rect" id="node6" href="$group__rtc.html#gabf903ec1ea143cfee52d1f8f5b6b7b49" title="write byte in a register of the RTC" alt="" coords="636,107,772,133"/>
-</map>
